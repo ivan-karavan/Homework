@@ -1,10 +1,8 @@
-*.vcxproj
+﻿*.vcxproj
 *.filters
 *.zip
 *.tlog
 *.ipch
-KDZ(C++)/KDZ(C++)/Перевощиков_202ПИ_отчет_по_КДЗ.docx
-KDZ(C++)/KDZ(C++)/Перевощиков_202ПИ_Таблицы_и_графики.xlsx
 *.datasource
 *.suo
 *.user
@@ -26,8 +24,6 @@ bld/
 *.sdf
 *.tmp
 *.txt
-Knapsack/Knapsack/knapsack (2).cpp
-Knapsack/Knapsack/knapsack (2).h
 .gradle
 /local.properties
 /.idea/workspace.xml

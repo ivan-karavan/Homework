@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: Main
+
+Name: homework/clockbeans/ClockBeans.class
+Java-Bean: True
