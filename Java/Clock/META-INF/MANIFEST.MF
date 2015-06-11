@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Name: homework.clockfx.Main.class
+Main-Class: homework.clockfx.Main
+
